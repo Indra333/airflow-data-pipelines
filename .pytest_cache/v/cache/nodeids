@@ -1,0 +1,9 @@
+[
+  "tests/test_etl_tasks.py::test_dag_files_define_expected_dags_and_tasks",
+  "tests/test_etl_tasks.py::test_extract_validates_header",
+  "tests/test_etl_tasks.py::test_load_daily_revenue_math",
+  "tests/test_etl_tasks.py::test_quality_check_rejects_empty_fact",
+  "tests/test_etl_tasks.py::test_quality_check_rejects_negative_revenue",
+  "tests/test_etl_tasks.py::test_sample_data_end_to_end",
+  "tests/test_etl_tasks.py::test_transform_dedupes_and_computes_totals"
+]
